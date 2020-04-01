@@ -32,7 +32,7 @@ int main()
             adcdatasample=Din;
             pc.printf("%1.3f\r\n", adcdatasample);
             wait(0.1);
-            
+             
         }
     }
     
